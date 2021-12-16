@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guttappa1238)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guttappa1238&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=guttappa1238)
 
