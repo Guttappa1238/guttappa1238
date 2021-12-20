@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+🔭 I’m currently working in UST Global as an Information Security Analyst.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guttappa1238&theme=dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guttappa1238&theme=dark)](https://git.io/streak-stats)
 
