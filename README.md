@@ -5,6 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guttappa1238&theme=dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guttappa1238&theme=dark)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=guttappa1238)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=guttappa1238)
 
 <!--
