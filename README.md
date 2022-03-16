@@ -6,7 +6,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guttappa1238&theme=dark)](https://git.io/streak-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=guttappa1238&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+!https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=guttappa1238)
