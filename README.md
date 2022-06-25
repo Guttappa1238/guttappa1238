@@ -7,7 +7,8 @@
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=guttappa1238&theme=algolia)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=guttappa1238&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -27,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![trophy](https://github-profile-trophy.vercel.app/?username=guttappa1238&theme=algolia)
 -->
