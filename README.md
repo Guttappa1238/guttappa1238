@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 🔭 I’m currently working at Prixgen Tech Solution Pvt. Ltd. as an Software Engineer-Computer Vision & IoT.
-🔭 I’m currently working on Computer vision projects
+-  🔭 I’m currently working on Computer vision projects
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guttappa1238&theme=dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guttappa1238&theme=dark)](https://git.io/streak-stats)
 
